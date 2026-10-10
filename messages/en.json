@@ -1,0 +1,54 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About"
+  },
+  "LocaleSwitcher": {
+    "label": "Language",
+    "en": "English",
+    "ru": "Русский"
+  },
+  "Home": {
+    "add": "Add",
+    "done": "Done",
+    "undone": "Undone",
+    "info": "Info",
+    "delete": "Delete",
+    "edit": "Edit"
+  },
+  "TodoInfo": {
+    "notFound": "Todo not found",
+    "deleteImage": "Delete image",
+    "addImage": "Add image"
+  },
+  "TodoDialog": {
+    "addTitle": "Add",
+    "editTitle": "Edit",
+    "name": "Name",
+    "description": "Description",
+    "cancel": "Cancel",
+    "add": "Add",
+    "save": "Save"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "We create modern digital solutions that help people and businesses achieve their goals.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To create useful, accessible, and user-friendly solutions for everyday challenges."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description": "To strive for a digital future where technology makes life easier."
+    },
+    "values": {
+      "title": "Our Values",
+      "description": "Quality, responsibility, transparency, and continuous growth."
+    },
+    "team": {
+      "title": "Together Towards New Achievements",
+      "description": "We believe that the best results come from collaboration, sharing ideas, and striving for excellence."
+    }
+  }
+}
+
